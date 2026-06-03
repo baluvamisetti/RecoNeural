@@ -1,0 +1,10 @@
+data/ 
+saved/ 
+__pycache__/ 
+*.pyc 
+*.pkl 
+*.pt 
+*.zip 
+fix.py 
+fix_similar.py 
+test_tmdb.py 
